@@ -6,9 +6,11 @@
 
 <br><br>
 
-<a href="https://github.com/S3scobar">
-  <img src="https://github-readme-stats-ten-livid-35.vercel.app/api/streak?username=S3scobar&theme=dark&background=0A101F&border=22D3EE&stroke=108981&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA" width="100%" alt="GitHub Streak" />
-</a>
+<p align="center">
+  <a href="https://github.com/S3scobar">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=S3scobar&theme=dark&background=0A101F&border=22D3EE&stroke=108981&ring=A78BFA&fire=22D3EE&currStreakNum=22D3EE&sideNums=A78BFA&currStreakLabel=A78BFA&dates=A78BFA" width="100%" alt="GitHub Streak" />
+  </a>
+</p>
 
 <br>
 
@@ -23,11 +25,13 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S3scobar/S3scobar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S3scobar/S3scobar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/S3scobar/S3scobar/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S3scobar/S3scobar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S3scobar/S3scobar/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/S3scobar/S3scobar/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
 
 <br><br>
 
