@@ -8,14 +8,6 @@
 
 <p align="center">
   <a href="https://github.com/S3scobar">
-    <img src="https://streak-stats.demolab.com?user=S3scobar&theme=dark&background=0A101F&border=22D3EE&stroke=108981&ring=A78BFA&fire=22D3EE&currStreakNum=22D3EE&sideNums=A78BFA&currStreakLabel=A78BFA&dates=A78BFA" width="100%" alt="GitHub Streak" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/S3scobar">
     <img src="https://github-readme-stats-ten-livid-35.vercel.app/api?username=S3scobar&show_icons=true&theme=dark&bg_color=0A101F&title_color=22D3EE&icon_color=108981&text_color=A78BFA&border_color=22D3EE&hide_rank=true" width="49%" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/S3scobar">
