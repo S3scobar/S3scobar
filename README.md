@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://github.com/S3scobar">
-    <img src="https://github-readme-stats-ten-livid-35.vercel.app/api?username=S3scobar&show_icons=true&theme=dark&bg_color=0A101F&title_color=22D3EE&icon_color=108981&text_color=A78BFA&border_color=22D3EE&hide_rank=true" width="49%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-ten-livid-35.vercel.app/api?username=S3scobar&show_icons=true&theme=dark&bg_color=0A101F&title_color=22D3EE&icon_color=108981&text_color=A78BFA&border_color=22D3EE&hide_rank=true&include_all_commits=true&v=2" width="49%" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/S3scobar">
-    <img src="https://github-readme-stats-ten-livid-35.vercel.app/api/top-langs/?username=S3scobar&layout=compact&theme=dark&bg_color=0A101F&title_color=22D3EE&text_color=A78BFA&border_color=22D3EE" width="49%" alt="Top Languages" />
+    <img src="https://github-readme-stats-ten-livid-35.vercel.app/api/top-langs/?username=S3scobar&layout=compact&theme=dark&bg_color=0A101F&title_color=22D3EE&text_color=A78BFA&border_color=22D3EE&include_forks=true&v=2" width="49%" alt="Top Languages" />
   </a>
 </p>
 
